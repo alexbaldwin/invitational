@@ -6,8 +6,8 @@ $(function() {
   $.getFeed({
     url: POINTS_FEED_URL,
     success: function(feed) {
-      $('.ch .score').text(feed.items[0].description);
-      $('.alex .score').text(feed.items[1].description);
+      $('.player.one .score').text(feed.items[0].description);
+      $('.player.two .score').text(feed.items[1].description);
     }
   });
 });
