@@ -1,0 +1,1 @@
+Invitational is a game best played with friends.
