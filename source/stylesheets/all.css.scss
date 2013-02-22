@@ -8,7 +8,7 @@ body {
 
 .container {
   width:600px;
-  margin:120px auto;
+  margin:300px auto;
   text-align: center;
   
 }
@@ -45,5 +45,21 @@ h1 {
       top:-20px;
       left:5px;
     }
+  }
+}
+
+header {
+  background: #fff;
+  position:fixed;
+  top:0;
+  right:0;
+  left:0;
+
+  h1 {
+    text-transform: uppercase;
+    font-size: 1em;
+    padding:2em 0;
+    color:#999;
+    letter-spacing: 4px;
   }
 }
