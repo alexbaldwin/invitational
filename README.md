@@ -1,1 +1,1 @@
-Invitational is a game best played with friends.
+Permitted to those with an invitation.
