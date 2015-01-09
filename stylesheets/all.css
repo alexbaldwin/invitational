@@ -1,0 +1,64 @@
+/* line 3, /Users/alexbaldwin/Sites/invitational/source/stylesheets/all.css.scss */
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background: whiteSmoke;
+  color: #333; }
+
+/* line 9, /Users/alexbaldwin/Sites/invitational/source/stylesheets/all.css.scss */
+.container {
+  width: 600px;
+  margin: 300px auto;
+  text-align: center; }
+
+/* line 16, /Users/alexbaldwin/Sites/invitational/source/stylesheets/all.css.scss */
+.title {
+  line-height: 120px;
+  font-size: 48px;
+  border-bottom: 1px solid #E4E4E4; }
+  /* line 17, /Users/alexbaldwin/Sites/invitational/source/stylesheets/all.css.scss */
+  .title span {
+    font-size: 24px;
+    font-style: italic;
+    color: #777; }
+
+/* line 27, /Users/alexbaldwin/Sites/invitational/source/stylesheets/all.css.scss */
+h1 {
+  font-weight: normal; }
+
+/* line 31, /Users/alexbaldwin/Sites/invitational/source/stylesheets/all.css.scss */
+.player {
+  float: left;
+  width: 300px; }
+  /* line 34, /Users/alexbaldwin/Sites/invitational/source/stylesheets/all.css.scss */
+  .player h1 {
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 2px; }
+  /* line 39, /Users/alexbaldwin/Sites/invitational/source/stylesheets/all.css.scss */
+  .player h2 {
+    font-size: 36px; }
+    /* line 41, /Users/alexbaldwin/Sites/invitational/source/stylesheets/all.css.scss */
+    .player h2 .pending {
+      font-size: 16px;
+      font-weight: normal;
+      position: relative;
+      top: -20px;
+      left: 5px; }
+
+/* line 51, /Users/alexbaldwin/Sites/invitational/source/stylesheets/all.css.scss */
+header {
+  background: #fff;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0; }
+  /* line 58, /Users/alexbaldwin/Sites/invitational/source/stylesheets/all.css.scss */
+  header h1 {
+    text-transform: uppercase;
+    font-size: 1em;
+    padding: 2em 0 0 0;
+    color: #999;
+    letter-spacing: 4px; }
+  /* line 66, /Users/alexbaldwin/Sites/invitational/source/stylesheets/all.css.scss */
+  header img {
+    width: 128px; }
